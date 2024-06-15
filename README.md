@@ -24,4 +24,4 @@
 100. Tips and trick developing Kuberntest VS Code
 
 ### Reference Course
-* https://tokopedia.udemy.com/course/learn-kubernetes/learn/lecture/21126622
+https://www.udemy.com/course/learn-kubernetes/?couponCode=OF53124
